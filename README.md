@@ -1,6 +1,6 @@
 ### ✨
 
-- Ewha. W. Univ.(Seoul, South Korea) Climate & Energy Systems Engineering
+- Ewha. W. Univ. Climate & Energy Systems Engineering
 - Python & C++ & Java
 - Front-End Development (HTML-CSS-Javascript)
 
