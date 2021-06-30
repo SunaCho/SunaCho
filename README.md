@@ -1,5 +1,9 @@
 ### ✨
 
+- Ewha. W. Univ.(Seoul, Korea) Climate & Energy Systems Engineering
+- Python & C++ & Java
+- Front-end Developing(HTML-CSS-Javascript)
+
 <!--
 **SunaCho/SunaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
