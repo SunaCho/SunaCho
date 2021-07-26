@@ -1,7 +1,7 @@
 ### ✨
 
 - Ewha W. Univ. Climate & Energy Systems Engineering
-- Python & C++ & Java
+- Python & C++ & Java & NCAR Command
 - Front-End Development
 
 <!--
