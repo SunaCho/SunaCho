@@ -2,7 +2,7 @@
 
 - Ewha W. Univ. Climate & Energy Systems Engineering
 - Python & C++ & Java & NCAR Command
-- Front-End Development
+- Currently interested in Front-End Development
 
 <!--
 **SunaCho/SunaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
