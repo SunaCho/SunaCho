@@ -1,7 +1,7 @@
 ### ✨
 
 - Ewha W. Univ. Climate & Energy Systems Engineering
-- Python & C++ & Java & NCAR Command
+- Python & C & Java & NCAR Command
 - Currently interested in Front-End Development
 
 <!--
