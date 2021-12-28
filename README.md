@@ -1,6 +1,6 @@
 ### ✨
 
-- Ewha W. Univ. Climate & Energy Systems Engineering
+- Ewha W. Uni. Climate & Energy Systems Engineering
 - Python & C & Java & NCAR Command
 - Currently interested in ML and Data Science
 
