@@ -1,5 +1,3 @@
-### ✨ Hello There!
-
 - 🔭 Suna Cho, Climate and Energy Systems Engineering, Ewha Womans University, Seoul
 - 💬 Currently interested in ML and Data Sciences
 
