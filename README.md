@@ -1,8 +1,7 @@
-### ✨
+### ✨ Hello There!
 
-- Ewha W. Uni. Climate & Energy Systems Engineering
-- Python & C & C++
-- Currently interested in ML and Data Science
+- 🔭 Suna Cho, Climate and Energy Systems Engineering, Ewha Womans University, Seoul
+- 💬 Currently interested in ML and Data Sciences
 
 <!--
 **SunaCho/SunaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
