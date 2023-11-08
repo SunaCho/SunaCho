@@ -6,7 +6,7 @@
  [![Solved.ac
  프로필](http://mazassumnida.wtf/api/generate_badge?boj=rougefleur)](https://solved.ac/rougefleur)
 
-Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunacho@ewhain.net)](mailto:sunacho@ewhain.net)
+- 💌 Contact [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunacho@ewhain.net)](mailto:sunacho@ewhain.net)
 <!--
 **SunaCho/SunaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
