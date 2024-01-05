@@ -1,8 +1,8 @@
-####  :wave: Welcome to my GitHub profile!
+####  Welcome to my GitHub profile!
 
- - 🔭 Climate and Energy Systems Engineering, Ewha Womans University, Seoul
- - 💬 I am a junior at Ewha Womans University and would like to pursue a career in physical oceanography.
- - 🌱 Currently, I am actively engaged in **an in-depth analysis of climate data**, focusing on the application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability within my research areas. I am enhancing my proficiency in intermediate problem-solving techniques and algorithms by solving problems on solved.ac.
+ - 📫 Climate and Energy Systems Engineering, Ewha Womans University, Seoul
+ - 🔭 I am a junior at Ewha Womans University and would like to pursue a career in physical oceanography.
+ - 💬 Currently, I am actively engaged in **an in-depth analysis of climate data**, focusing on the application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability within my research areas. I am enhancing my proficiency in intermediate problem-solving techniques and algorithms by solving problems on solved.ac.
  - ⚡ If you have any intriguing inquiries or questions regarding my work or if there are collaborative opportunities you'd like to explore, please reach out to me via email.
 
  [![Solved.ac
