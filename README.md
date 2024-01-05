@@ -1,4 +1,4 @@
-####  :wave: Welcome my github profile!
+####  :wave: Welcome to my GitHub profile!
 
  - 🔭 Climate and Energy Systems Engineering, Ewha Womans University, Seoul
  - 💬 I am a junior at Ewha Womans University and would like to pursue a career in physical oceanography.
