@@ -1,6 +1,6 @@
 ####  Welcome to my GitHub profile!
 
- - 💬 I am a senior at Climate and Energy Systems Engineering, Ewha Womans University, Seoul, and would like to pursue a career in physical oceanography. Currently, I am interested in **an in-depth analysis of climate data**, focusing on the application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability.
+ - 💬 I am a senior at Climate and Energy Systems Engineering, Ewha Womans University, Seoul. Currently, I am interested in **an in-depth analysis of climate data**, focusing on the application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability.
  - ⚡ If you have any intriguing inquiries regarding my work, or if there are collaborative opportunities you'd like to explore, please reach out to me via email.
 
  [![Solved.ac
