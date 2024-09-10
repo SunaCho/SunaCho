@@ -18,7 +18,7 @@
  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
 </div>
 
-- 💌 Contact: suna.cho [at] snu.ac.kr [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suna.cho@snu.ac.kr)](mailto:suna.cho@snu.ac.kr)
+- 💌 suna.cho [at] snu.ac.kr [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suna.cho@snu.ac.kr)](mailto:suna.cho@snu.ac.kr)
 <!--
 **SunaCho/SunaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
