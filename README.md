@@ -1,7 +1,6 @@
 ####  Welcome to my GitHub profile!
 
- - 💬 I am a senior at Climate and Energy Systems Engineering, Ewha Womans University, Seoul. Currently, I am interested in **an in-depth analysis of climate data**, focusing on the application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability.
- - ⚡ If you have any intriguing inquiries regarding my work, or if there are collaborative opportunities you'd like to explore, please reach out to me via email.
+ - 💬 Currently I am interested in the application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability. If you have any collaborative opportunities you'd like to explore, please reach out to me via email.
 
  [![Solved.ac
  프로필](http://mazassumnida.wtf/api/generate_badge?boj=rougefleur)](https://solved.ac/rougefleur)
@@ -19,7 +18,7 @@
  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
 </div>
 
-- 💌 Contact: sunacho@ewhain.net [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunacho@ewhain.net)](mailto:sunacho@ewhain.net)
+- 💌 Contact: suna.cho [at] snu.ac.kr [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suna.cho@snu.ac.kr)](mailto:suna.cho@snu.ac.kr)
 <!--
 **SunaCho/SunaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
