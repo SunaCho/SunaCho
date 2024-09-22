@@ -1,6 +1,6 @@
 ####  Welcome to my GitHub profile!
 
- - 💬 I am interested in the application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability. If you have any collaborative opportunities you'd like to explore, please reach out to me via email.
+ - 💬 I am interested in an application of Machine Learning (ML) and Deep Learning (DL) approaches to predict large-scale climate and oceanic variability. If you have any collaborative opportunities you'd like to explore, please reach out to me via email.
 
  [![Solved.ac
  프로필](http://mazassumnida.wtf/api/generate_badge?boj=rougefleur)](https://solved.ac/rougefleur)
